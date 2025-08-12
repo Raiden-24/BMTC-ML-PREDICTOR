@@ -1,0 +1,7 @@
+pandas
+numpy
+plotly
+dash
+scikit-learn
+catboost
+virtualenv
