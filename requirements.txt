@@ -1,3 +1,6 @@
+Tech Stack Used:
+
+python 
 pandas
 numpy
 plotly
